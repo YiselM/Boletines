@@ -1,0 +1,29 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "node-webshot": "^1.0.3",
+    "nodemailer": "^6.4.6",
+    "phantom": "^6.3.0",
+    "phantomjs-prebuilt": "^2.1.16",
+    "puppeteer": "^3.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webshot": "^0.18.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5"
+  }
+}
